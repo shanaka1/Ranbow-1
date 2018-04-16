@@ -1,4 +1,4 @@
-The rainbow and the Unicorn 
+The rainbow and the Unicorn and Pony 
 
 Purple
 pik
@@ -8,7 +8,8 @@ yellow
 Unicorn
 red
 these are the colors of the rainbow
-And the Unicorn 
+And the Unicorn
+And the Pony 
 
 
 
