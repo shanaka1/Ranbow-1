@@ -3,6 +3,7 @@ The rainbow
 Purple
 pik
 orange
+Green
 red
 these are the colors of the rainbow
 
