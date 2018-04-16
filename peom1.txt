@@ -4,6 +4,7 @@ Purple
 pik
 orange
 Green
+Indigo
 yellow 
 Unicorn
 red
